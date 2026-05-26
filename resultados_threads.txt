@@ -1,0 +1,27 @@
+=== Resultados - Versão Threads ===
+Matriz: 1000x1000
+
+Threads: 2
+  Rodada 1: 0,9846 s (aquecimento — descartado)
+  Rodada 2: 1,1591 s
+  Rodada 3: 1,3241 s
+  Rodada 4: 1,0526 s
+  Rodada 5: 0,9557 s
+  >> Media (rodadas 2-5): 1,1229 s
+
+Threads: 4
+  Rodada 1: 1,0336 s (aquecimento — descartado)
+  Rodada 2: 0,9729 s
+  Rodada 3: 0,9973 s
+  Rodada 4: 0,8831 s
+  Rodada 5: 0,7868 s
+  >> Media (rodadas 2-5): 0,9101 s
+
+Threads: 8
+  Rodada 1: 1,2444 s (aquecimento — descartado)
+  Rodada 2: 1,2125 s
+  Rodada 3: 1,2358 s
+  Rodada 4: 1,1893 s
+  Rodada 5: 1,2436 s
+  >> Media (rodadas 2-5): 1,2203 s
+
